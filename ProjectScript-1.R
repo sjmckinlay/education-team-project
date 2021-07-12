@@ -1,5 +1,6 @@
 #K. Jones and SJ McKinlay
 #TMATH 410 FINAL PROJECT R SCRIPT
+#Winter Quarter, 2020
 
 
 
